@@ -11,7 +11,7 @@ Exercice créer un mémo  :books:
 - Luiza Jerzykowska
 - Justine Crenier
 
-## Desciprtion
+## Desciprition
 
 Ce  mémo a été rédiger lors d'un travail de groupe le 14 septembre 2018 à l'occasion de la prise en main de MarkDoWN et d'un environnement optimisé
 
