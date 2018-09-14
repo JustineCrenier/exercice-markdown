@@ -41,6 +41,8 @@ Pour afficher une image (balise HTML ```<img>```) :
 ![Texte alternatif](url_de_l'image "texte pour le titre, facultatif")
 ```
 
+![gif animé](http://bullies.b.u.pic.centerblog.net/3d18dfe9.gif)
+
 
 
     
