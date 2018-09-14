@@ -13,11 +13,11 @@ Exercice créer un mémo  :books:
 
 ## Description
 
-Ce  mémo a été rédiger lors d'un travail de groupe le 14 septembre 2018 à l'occasion de la prise en main de MarkDoWN et d'un environnement optimisé
+Ce  mémo a été rédigé lors d'un travail de groupe le 14 septembre 2018 à l'occasion de la prise en main de MarkDoWN et d'un environnement optimisé.
 
 ## Installation
 
-1. crée un repo intitulé exercice-markdown
+1. créer un repo intitulé exercice-markdown
 2. utiliser le système des branches de Git pour travailler collaborativement ce contenu.
 
 
