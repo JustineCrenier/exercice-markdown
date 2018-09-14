@@ -2,14 +2,14 @@
 
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
-###Headers
+### Headers
 ```
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
 ```
 
-###Emphasis
+### Emphasis
 ```
 *This text will be italic*
 _This will also be italic_
@@ -20,16 +20,16 @@ __This will also be bold__
 _You **can** combine them_
 ```
 
-###Lists
+### Lists
 
-####Unordered
+#### Unordered
 ```
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
 ```
-####Ordered
+#### Ordered
 ```
 1. Item 1
 1. Item 2
@@ -38,19 +38,19 @@ _You **can** combine them_
    1. Item 3b
 ```
 
-###Images
+### Images
 ```
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 ```
 
-###Links
+### Links
 ```
 http://github.com - automatic!
 [GitHub](http://github.com)
 ```
 
-###Blockquotes
+### Blockquotes
 ```
 As Kanye West said:
 
@@ -58,7 +58,7 @@ As Kanye West said:
 > the present is our past.
 ```
 
-###Inline code
+### Inline code
 ```
 I think you should use an
 `<addr>` element here instead.
