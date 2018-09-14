@@ -74,7 +74,7 @@ Note that some features of GitHub Flavored Markdown are only available in the de
 
 Here’s an example of how you can use syntax highlighting with [GitHub Flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/):
 
-```
+```javascript
 javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -84,7 +84,7 @@ function fancyAlert(arg) {
 ```
 You can also simply indent your code by four spaces:
 
-```
+```javascript
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
@@ -92,7 +92,7 @@ You can also simply indent your code by four spaces:
     }
 ```
 Here’s an example of Python code without syntax highlighting:
-```
+```javascript
 def foo():
     if not bar:
         return True
