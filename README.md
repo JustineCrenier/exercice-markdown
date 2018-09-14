@@ -2,7 +2,7 @@
 
 Exercice créer un mémo  :books:
 
-![mémo logo] (https://www.fil.ion.ucl.ac.uk/memo/images/Memo_logo_lg.png)
+![mémo logo](https://www.fil.ion.ucl.ac.uk/memo/images/Memo_logo_lg.png)
 
 ## liste du groupe
 
