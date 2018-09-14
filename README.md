@@ -1,3 +1,4 @@
+[**Index**](#) [Syntax](https://github.com/JustineCrenier/exercice-markdown/blob/master/syntax.md)
 # exercice-markdown
 
 Exercice créer un mémo  :books:
