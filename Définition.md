@@ -1,3 +1,4 @@
+[Index](https://github.com/JustineCrenier/exercice-markdown) | [**Définition**](#) | [Syntax](https://github.com/JustineCrenier/exercice-markdown/blob/master/syntax.md)
 
 Markdown est un langage de balisage léger créé en 2004. Il offre une syntaxe facile à lire et à écrire. 
 Un document balisé par Markdown peut etre converti en HTML ou en autres formats. 
